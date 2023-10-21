@@ -158,6 +158,6 @@ git bisect good
 
 Esta es una introducción básica a Git. Puedes encontrar más información y funcionalidades avanzadas en los recursos proporcionados. Recuerda que la práctica es esencial para aprender Git con éxito.
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
