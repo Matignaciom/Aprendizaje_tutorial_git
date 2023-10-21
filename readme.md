@@ -157,3 +157,7 @@ git bisect good
 - Pro Git Book: https://git-scm.com/book/en/v2
 
 Esta es una introducción básica a Git. Puedes encontrar más información y funcionalidades avanzadas en los recursos proporcionados. Recuerda que la práctica es esencial para aprender Git con éxito.
+
+## No olvides dar las gracias
+
+Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
